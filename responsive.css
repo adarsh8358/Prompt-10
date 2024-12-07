@@ -1,0 +1,55 @@
+@media (max-width:600px) {
+
+    .logo{
+        font-size: 15px;
+        margin-left: 4%;
+    }
+
+    .items{
+        display: none;
+    }
+
+    .ri-menu-fill{
+        display: block;
+        margin-right: 2.5%;
+    }
+
+    .ubutton{
+        margin-top: 1.5%;
+        margin-right: -25%;
+    }
+
+    .head{
+        font-size: 35px;
+        margin-top: 30%;
+    }
+
+    .hs2{
+        font-size: 18px;
+    }
+
+    .boximage{
+        height: 100px;
+        width: 100px;
+        margin-top: 153%;
+        margin-left: 20%;
+    }
+
+    .mbutton{
+        margin-left: -27%;
+        margin-top: -15%;
+    }
+
+    .socialmedia{
+        margin-top: -5%;
+        margin-left: -21%;
+    }
+
+    .page2{
+        display: block;
+    }
+    
+    .page3{
+        display: block;
+    }
+}
